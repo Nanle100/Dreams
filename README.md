@@ -1,2 +1,1 @@
-# Dreams
-practicing Githob
+As a programmer that you are, you must learn to be intentional about understanding how the blockchain works. what soever you desire to do in the programming ecosystem must be done with atlast a measure of knowledge on the blockchain.
